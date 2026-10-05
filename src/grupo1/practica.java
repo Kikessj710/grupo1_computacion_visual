@@ -9,5 +9,5 @@ package grupo1;
  * @author enriq
  */
 public class practica {
-    
+    //hola amigos , somos el grupo 1
 }
