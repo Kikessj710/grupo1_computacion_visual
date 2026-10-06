@@ -10,7 +10,4 @@ package grupo1;
  */
 public class Zambrano {
     //comentario de Gabriel
-    //comentario de Benjamin
-    //comentario de Mikel
-    //comentario de Matias
 }
