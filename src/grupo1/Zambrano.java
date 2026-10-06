@@ -10,4 +10,7 @@ package grupo1;
  */
 public class Zambrano {
     
+    public void Mikel(){
+        
+    }
 }
